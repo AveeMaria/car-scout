@@ -1,0 +1,279 @@
+[2025-06-15 09:05:12] [INFO    ] discord.client: logging in using static token
+[2025-06-15 09:05:14] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 970c0c6989f1836274d4504f88127ce1).
+Logged in as shitbox#9217
+sleeping for 164 seconds
+[2025-06-15 09:08:00.014342] Scraping started.
+Starting scrape...
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21139886&display=Volkswagen%20Passat%20Variant
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21139729&display=%8Akoda%20Superb
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21139705&display=Volkswagen%20Golf
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21139685&display=BMW%20serija%201:
+Items scraped.
+Items filtered.
+[2025-06-15 09:09:17.427026] Cycle complete.
+sleeping for 283 seconds
+[2025-06-15 09:14:00.459611] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:14:00.758400] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:17:00.765548] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:17:00.912038] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:20:00.934355] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:20:01.072733] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 09:23:00.097485] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:23:00.490850] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:26:00.501550] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:26:00.666978] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:29:00.677015] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:29:00.845033] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:32:00.885326] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:32:01.056158] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 09:35:00.069502] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:35:00.236444] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:38:00.265814] Scraping started.
+Starting scrape...
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21139886&display=Volkswagen%20Passat%20Variant
+Items scraped.
+Items filtered.
+[2025-06-15 09:39:17.424406] Cycle complete.
+sleeping for 283 seconds
+[2025-06-15 09:44:00.442258] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:44:00.643966] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:47:00.677285] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:47:00.840914] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:50:00.848230] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:50:01.011459] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 09:53:00.032462] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:53:00.441017] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:56:00.477120] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:56:00.638536] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 09:59:00.648525] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 09:59:00.812029] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:02:00.838575] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:02:00.983922] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:05:01.024627] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:05:01.431285] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 10:08:00.445211] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:08:00.613355] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:11:00.642373] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:11:00.803854] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:14:00.807036] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:14:00.972225] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:17:00.990579] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:17:01.132581] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 10:20:00.165434] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:20:00.584773] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:23:00.591852] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:23:00.749597] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:26:00.771034] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:26:00.936767] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:29:00.973589] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:29:01.136761] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 10:32:00.146492] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:32:00.309366] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:35:00.333988] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:36:17.698760] Cycle complete.
+sleeping for 283 seconds
+[2025-06-15 10:41:00.712569] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:41:00.917377] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:44:00.946426] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:44:01.088589] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 10:47:00.090430] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:47:00.239175] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:50:00.256273] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:50:00.655698] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:53:00.688614] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:53:00.850489] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 10:56:00.858438] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:56:01.021365] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 10:59:00.042008] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 10:59:00.206724] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:02:00.242438] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:02:00.410361] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:05:00.421029] Scraping started.
+Starting scrape...
+Already in log.json, skipping: https://www.avto.net/Ads/details.asp?id=21140156&display=Volkswagen%20Passat
+Items scraped.
+Items filtered.
+[2025-06-15 11:06:17.920964] Cycle complete.
+sleeping for 283 seconds
+[2025-06-15 11:11:00.961387] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:11:01.155715] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 11:14:00.169307] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:14:00.364883] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:17:00.393711] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:17:00.559167] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:20:00.561716] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:20:00.969162] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:23:00.987616] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:23:01.150468] Cycle complete.
+sleeping for 179 seconds
+[2025-06-15 11:26:00.182451] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:26:00.353238] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:29:00.359688] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:29:00.506268] Cycle complete.
+sleeping for 180 seconds
+[2025-06-15 11:32:00.528794] Scraping started.
+Starting scrape...
+Items scraped.
+Items filtered.
+[2025-06-15 11:51:45] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 970c0c6989f1836274d4504f88127ce1.

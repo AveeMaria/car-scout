@@ -10,8 +10,8 @@ from scraper.log_data import log_data
 
 with open('bot_settings.json', 'r', encoding='utf-8') as f:
     bot_settings = json.load(f)
-    TOKEN = bot_settings["discord_token"]
-    CHANNEL_ID = bot_settings["channel_id"]
+    TOKEN = bot_settings["discord_token"].strip()
+    CHANNEL_ID = int(bot_settings["channel_id"])
 
 with open('settings.json', 'r', encoding='utf-8') as f:
     settings = json.load(f)
@@ -69,11 +69,11 @@ async def run_every_5_minutes():
         #print(f"curr time: {now} (hour: {now.hour}, minute: {now.minute})")
 
         if bot_settings["start_hour"] <= now.hour < bot_settings["end_hour"]:
-            seconds_until_next_run = (5 - (now.minute % 5)) * 60 - now.second
+            seconds_until_next_run = (5 - (now.minute % 3)) * 60 - now.second
             if seconds_until_next_run <= 0:
                 seconds_until_next_run += 5 * 60
 
-            #print(f"sleeping for {seconds_until_next_run} seconds")
+            print(f"sleeping for {seconds_until_next_run} seconds")
             await asyncio.sleep(seconds_until_next_run)
 
             try:

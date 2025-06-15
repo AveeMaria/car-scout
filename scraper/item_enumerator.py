@@ -7,6 +7,9 @@ def enumerate_items(data):
     except FileNotFoundError:
         log_items = []
     last_id = log_items[-1]["id"] if log_items else 0
+    
+    if not data:
+        return [] 
 
     for item in data:
         last_id += 1
